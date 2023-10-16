@@ -315,7 +315,7 @@ suit-parameter-encryption-info = 19
 {: #parameter-fig title="CDDL of the SUIT_Parameters Extension."}
 
 RFC Editor's Note (TBD19): The value for the suit-parameter-encryption-info
-parameter is set to 19, as the proposed value.]
+parameter is set to 19, as the proposed value.
 
 # Extended Directives
 
